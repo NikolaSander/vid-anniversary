@@ -23,6 +23,10 @@
     font-weight: bold;
 }
  
+.reveal em {
+    color: #ff9a15;
+} 
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
